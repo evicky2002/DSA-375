@@ -6,7 +6,7 @@ public class ReverseTheArray {
         // Loop through the length of the array
         // Store the last value of array in temp always
         // Move the rest of the elements one position to the right
-        // After moving, we would have the moving forward index free to be occupied by
+        // After moving, we would have the moving forward index free to be occupied y
         // the temp
         // Now increment position and repeat until the array is reversed
         int position = 0;
